@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8b7f4258-4deb-4c2d-a2a4-f1c1408187ce" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Problem 1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Problem 1/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,10 +17,11 @@
     <session id="-1779467809">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -34,12 +36,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4424" />
+          <entry key="java" value="4450" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4424" />
+          <entry key="JAVA" value="4450" />
         </counts>
       </usages-collector>
     </session>
@@ -70,11 +72,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CheckTypos.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="26" column="29" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+            <state relative-caret-position="360">
+              <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
               <folding>
                 <element signature="e#453#454#0" expanded="true" />
-                <element signature="e#503#504#0" expanded="true" />
+                <element signature="e#506#507#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -83,18 +85,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/RemoveDuplicates.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="51" selection-end-column="26" />
+            <state relative-caret-position="510">
+              <caret line="44" selection-start-line="44" selection-end-line="51" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#622#623#0" expanded="true" />
-                <element signature="e#685#686#0" expanded="true" />
-                <element signature="e#750#751#0" expanded="true" />
-                <element signature="e#798#799#0" expanded="true" />
-                <element signature="e#884#885#0" expanded="true" />
-                <element signature="e#919#920#0" expanded="true" />
-                <element signature="e#979#980#0" expanded="true" />
-                <element signature="e#1020#1021#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -103,18 +97,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/IntersectingNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-540">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="501">
+              <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#564#565#0" expanded="true" />
-                <element signature="e#641#642#0" expanded="true" />
-                <element signature="e#692#693#0" expanded="true" />
-                <element signature="e#759#760#0" expanded="true" />
-                <element signature="e#795#796#0" expanded="true" />
-                <element signature="e#836#837#0" expanded="true" />
-                <element signature="e#882#883#0" expanded="true" />
-                <element signature="e#924#925#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -161,6 +147,7 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -178,13 +165,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556404794981" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556404811195" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -268,18 +254,18 @@
       <option name="presentableId" value="Default" />
       <updated>1556378026283</updated>
       <workItem from="1556378027443" duration="3637000" />
-      <workItem from="1556393362356" duration="9919000" />
+      <workItem from="1556393362356" duration="10114000" />
+      <workItem from="1556455322494" duration="71000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13556000" />
+    <option name="totallyTimeSpent" value="13822000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25262576" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25538972" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -288,7 +274,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3294979" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3294979" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39958158" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -368,47 +354,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CheckTypos.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="26" column="29" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        <state relative-caret-position="360">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
           <folding>
             <element signature="e#453#454#0" expanded="true" />
-            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RemoveDuplicates.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="51" selection-end-column="26" />
+        <state relative-caret-position="510">
+          <caret line="44" selection-start-line="44" selection-end-line="51" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#622#623#0" expanded="true" />
-            <element signature="e#685#686#0" expanded="true" />
-            <element signature="e#750#751#0" expanded="true" />
-            <element signature="e#798#799#0" expanded="true" />
-            <element signature="e#884#885#0" expanded="true" />
-            <element signature="e#919#920#0" expanded="true" />
-            <element signature="e#979#980#0" expanded="true" />
-            <element signature="e#1020#1021#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/IntersectingNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-540">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="501">
+          <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#564#565#0" expanded="true" />
-            <element signature="e#641#642#0" expanded="true" />
-            <element signature="e#692#693#0" expanded="true" />
-            <element signature="e#759#760#0" expanded="true" />
-            <element signature="e#795#796#0" expanded="true" />
-            <element signature="e#836#837#0" expanded="true" />
-            <element signature="e#882#883#0" expanded="true" />
-            <element signature="e#924#925#0" expanded="true" />
           </folding>
         </state>
       </provider>
